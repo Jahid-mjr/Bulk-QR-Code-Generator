@@ -33,45 +33,36 @@ product123,https://example.com/product/123
 
 ---
 
-##🚀 How to Use
+## 🚀 How to Use
 
-1️⃣ Install required library
-
-pip install qrcode
-
-2️⃣ Place web.csv
-
-Make sure the CSV file is in the same folder as the script.
-
-3️⃣ Run the script
-
-python main.py
-
-4️⃣ Output Example
-
-google.jpg
-
-mytext.jpg
-
-product123.jpg
+1️⃣ Install required library  
+pip install qrcode  
+2️⃣ Place web.csv  
+Make sure the CSV file is in the same folder as the script.  
+3️⃣ Run the script  
+python main.py  
+4️⃣ Output Example  
+google.jpg  
+mytext.jpg  
+product123.jpg  
 
 ---
 
-##🎯 Features
+## 🎯 Features
 
-✔ Bulk QR code generation
-✔ Simple Python implementation
-✔ CSV-based automation
-✔ Fast and lightweight
-✔ Saves QR codes as .jpg files
-✔ Beginner-friendly project
+✔ Bulk QR code generation  
+✔ Simple Python implementation  
+✔ CSV-based automation  
+✔ Fast and lightweight  
+✔ Saves QR codes as .jpg files  
+✔ Beginner-friendly project  
 
 ---
 
-##📦 Requirements
+## 📦 Requirements
 
-Python 3.6+
-qrcode Python library
+✔ Python 3.6+  
+✔ qrcode Python library  
 
 
 ---
