@@ -26,7 +26,6 @@ Perfect for:
 Your `web.csv` file must follow this structure:
 
 google,https://google.com  
-mytext,Hello World  
 product123,https://example.com/product/123  
 
 ---
@@ -35,10 +34,13 @@ product123,https://example.com/product/123
 
 1️⃣ Install required library  
 pip install qrcode  
+
 2️⃣ Place web.csv  
 Make sure the CSV file is in the same folder as the script.  
+
 3️⃣ Run the script  
 python main.py  
+
 4️⃣ Output Example  
 google.jpg  
 mytext.jpg  
