@@ -25,11 +25,9 @@ Perfect for:
 
 Your `web.csv` file must follow this structure:
 
-google,https://google.com
-
-mytext,Hello World
-
-product123,https://example.com/product/123
+google,https://google.com  
+mytext,Hello World  
+product123,https://example.com/product/123  
 
 ---
 
